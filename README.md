@@ -28,5 +28,5 @@ A secure, decentralized voting system that uses **Ethereum blockchain**, **facia
 
 ```bash
 # Clone the repo
-git clone https://github.com//eth-bioevote-app.git
+git clone https://github.com//eth-bioevote-app.git](https://github.com/Arjun-1203/ethereum-biometric-voting.git
 cd eth-bioevote-app
