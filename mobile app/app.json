@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "E-VOTING",
+    "slug": "E-VOTING",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "b8633a88-fe47-4901-a3ba-6b22994971b3"
+      }
+    },
+    "android": {
+      "package": "com.harisubbu.blackspot"
+    },
+    "icon": "./assets/one.jpg"
+  }
+}
