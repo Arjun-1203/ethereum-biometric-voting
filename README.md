@@ -1,4 +1,4 @@
-# Ethereum-Powered Biometric E-Voting Application With Mobile Interface
+# Ethereum-Based Biometric E-Voting Application With Mobile Interface
 
 A secure, decentralized voting system that uses **Ethereum blockchain**, **facial recognition**, and **mobile app interface** to ensure transparent and verifiable elections.
 
