@@ -13,9 +13,7 @@ A secure, decentralized voting system that uses **Ethereum blockchain**, **facia
 ## 📁 Project Structure
 
 - `mobile-app/`: Frontend app (Expo)
-- `backend/`: API server with biometric authentication
-- `blockchain/`: Smart contract code and deployment
-- `docs/`: Technical documentation and diagrams
+- `backend with blockchain/`: API server with biometric authentication with Smart contract code and deployment
 
 ## 🚀 Features
 
